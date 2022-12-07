@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class RomanToInteger {
-    //RomanConverter
+    // RomanToIntegerConverter
 
     public static void main(String[] args) {
 
